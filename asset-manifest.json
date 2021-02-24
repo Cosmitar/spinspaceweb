@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/spinspaceweb/static/js/app.465d90ef.chunk.js",
-    "app.js.map": "/spinspaceweb/static/js/app.465d90ef.chunk.js.map",
+    "app.js": "/spinspaceweb/static/js/app.6b4ee118.chunk.js",
+    "app.js.map": "/spinspaceweb/static/js/app.6b4ee118.chunk.js.map",
     "runtime~app.js": "/spinspaceweb/static/js/runtime~app.10b1ca07.js",
     "runtime~app.js.map": "/spinspaceweb/static/js/runtime~app.10b1ca07.js.map",
-    "static/js/2.2c3b9351.chunk.js": "/spinspaceweb/static/js/2.2c3b9351.chunk.js",
-    "static/js/2.2c3b9351.chunk.js.map": "/spinspaceweb/static/js/2.2c3b9351.chunk.js.map",
+    "static/js/2.bc010bee.chunk.js": "/spinspaceweb/static/js/2.bc010bee.chunk.js",
+    "static/js/2.bc010bee.chunk.js.map": "/spinspaceweb/static/js/2.bc010bee.chunk.js.map",
     "static/js/3.a13d2486.chunk.js": "/spinspaceweb/static/js/3.a13d2486.chunk.js",
     "static/js/3.a13d2486.chunk.js.map": "/spinspaceweb/static/js/3.a13d2486.chunk.js.map",
     "favicon-16.png": "/spinspaceweb/favicon-16.png",
@@ -14,14 +14,14 @@
     "index.html": "/spinspaceweb/index.html",
     "manifest.json": "/spinspaceweb/manifest.json",
     "serve.json": "/spinspaceweb/serve.json",
-    "static/js/2.2c3b9351.chunk.js.LICENSE.txt": "/spinspaceweb/static/js/2.2c3b9351.chunk.js.LICENSE.txt",
+    "static/js/2.bc010bee.chunk.js.LICENSE.txt": "/spinspaceweb/static/js/2.bc010bee.chunk.js.LICENSE.txt",
     "static/media/cube_rock_A_mat_baseColor.png": "/spinspaceweb/static/media/cube_rock_A_mat_baseColor.280c99eb.png",
     "static/media/cube_rock_A_mat_normal.png": "/spinspaceweb/static/media/cube_rock_A_mat_normal.5edfd7c9.png",
     "static/media/threeTone.jpg": "/spinspaceweb/static/media/threeTone.f981ce1c.jpg"
   },
   "entrypoints": [
     "static/js/runtime~app.10b1ca07.js",
-    "static/js/2.2c3b9351.chunk.js",
-    "static/js/app.465d90ef.chunk.js"
+    "static/js/2.bc010bee.chunk.js",
+    "static/js/app.6b4ee118.chunk.js"
   ]
 }
