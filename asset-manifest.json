@@ -1,7 +1,7 @@
 {
   "files": {
-    "app.js": "/spinspaceweb/static/js/app.5d87fe15.chunk.js",
-    "app.js.map": "/spinspaceweb/static/js/app.5d87fe15.chunk.js.map",
+    "app.js": "/spinspaceweb/static/js/app.38c18cda.chunk.js",
+    "app.js.map": "/spinspaceweb/static/js/app.38c18cda.chunk.js.map",
     "runtime~app.js": "/spinspaceweb/static/js/runtime~app.7c0768a7.js",
     "runtime~app.js.map": "/spinspaceweb/static/js/runtime~app.7c0768a7.js.map",
     "static/js/2.f5f11901.chunk.js": "/spinspaceweb/static/js/2.f5f11901.chunk.js",
@@ -27,6 +27,6 @@
   "entrypoints": [
     "static/js/runtime~app.7c0768a7.js",
     "static/js/2.f5f11901.chunk.js",
-    "static/js/app.5d87fe15.chunk.js"
+    "static/js/app.38c18cda.chunk.js"
   ]
 }
