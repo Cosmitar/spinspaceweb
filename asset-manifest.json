@@ -1,13 +1,13 @@
 {
   "files": {
-    "app.js": "/spinspaceweb/static/js/app.1882e9f9.chunk.js",
-    "app.js.map": "/spinspaceweb/static/js/app.1882e9f9.chunk.js.map",
-    "runtime~app.js": "/spinspaceweb/static/js/runtime~app.7c8af52f.js",
-    "runtime~app.js.map": "/spinspaceweb/static/js/runtime~app.7c8af52f.js.map",
-    "static/js/2.123d7ee5.chunk.js": "/spinspaceweb/static/js/2.123d7ee5.chunk.js",
-    "static/js/2.123d7ee5.chunk.js.map": "/spinspaceweb/static/js/2.123d7ee5.chunk.js.map",
-    "static/js/3.217f1a5d.chunk.js": "/spinspaceweb/static/js/3.217f1a5d.chunk.js",
-    "static/js/3.217f1a5d.chunk.js.map": "/spinspaceweb/static/js/3.217f1a5d.chunk.js.map",
+    "app.js": "/spinspaceweb/static/js/app.3dd2dd44.chunk.js",
+    "app.js.map": "/spinspaceweb/static/js/app.3dd2dd44.chunk.js.map",
+    "runtime~app.js": "/spinspaceweb/static/js/runtime~app.1481c019.js",
+    "runtime~app.js.map": "/spinspaceweb/static/js/runtime~app.1481c019.js.map",
+    "static/js/2.fae14d24.chunk.js": "/spinspaceweb/static/js/2.fae14d24.chunk.js",
+    "static/js/2.fae14d24.chunk.js.map": "/spinspaceweb/static/js/2.fae14d24.chunk.js.map",
+    "static/js/3.ce63c4a5.chunk.js": "/spinspaceweb/static/js/3.ce63c4a5.chunk.js",
+    "static/js/3.ce63c4a5.chunk.js.map": "/spinspaceweb/static/js/3.ce63c4a5.chunk.js.map",
     "fonts/Sandoval.ttf": "/spinspaceweb/./fonts/Sandoval.ttf",
     "favicon-16.png": "/spinspaceweb/favicon-16.png",
     "favicon-32.png": "/spinspaceweb/favicon-32.png",
@@ -15,7 +15,7 @@
     "index.html": "/spinspaceweb/index.html",
     "manifest.json": "/spinspaceweb/manifest.json",
     "serve.json": "/spinspaceweb/serve.json",
-    "static/js/2.123d7ee5.chunk.js.LICENSE.txt": "/spinspaceweb/static/js/2.123d7ee5.chunk.js.LICENSE.txt",
+    "static/js/2.fae14d24.chunk.js.LICENSE.txt": "/spinspaceweb/static/js/2.fae14d24.chunk.js.LICENSE.txt",
     "static/media/Light rock formation texture.jpg": "/spinspaceweb/static/media/Light rock formation texture.48bd1bd1.jpg",
     "static/media/cone.png": "/spinspaceweb/static/media/cone.2ed5a290.png",
     "static/media/cube_rock_A_mat_baseColor.png": "/spinspaceweb/static/media/cube_rock_A_mat_baseColor.418445c2.png",
@@ -27,8 +27,8 @@
     "static/media/threeTone.jpg": "/spinspaceweb/static/media/threeTone.f981ce1c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime~app.7c8af52f.js",
-    "static/js/2.123d7ee5.chunk.js",
-    "static/js/app.1882e9f9.chunk.js"
+    "static/js/runtime~app.1481c019.js",
+    "static/js/2.fae14d24.chunk.js",
+    "static/js/app.3dd2dd44.chunk.js"
   ]
 }
