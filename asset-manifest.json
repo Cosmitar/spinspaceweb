@@ -1,11 +1,11 @@
 {
   "files": {
-    "app.js": "/spinspaceweb/static/js/app.3dd2dd44.chunk.js",
-    "app.js.map": "/spinspaceweb/static/js/app.3dd2dd44.chunk.js.map",
+    "app.js": "/spinspaceweb/static/js/app.011a5693.chunk.js",
+    "app.js.map": "/spinspaceweb/static/js/app.011a5693.chunk.js.map",
     "runtime~app.js": "/spinspaceweb/static/js/runtime~app.1481c019.js",
     "runtime~app.js.map": "/spinspaceweb/static/js/runtime~app.1481c019.js.map",
-    "static/js/2.fae14d24.chunk.js": "/spinspaceweb/static/js/2.fae14d24.chunk.js",
-    "static/js/2.fae14d24.chunk.js.map": "/spinspaceweb/static/js/2.fae14d24.chunk.js.map",
+    "static/js/2.376bb36c.chunk.js": "/spinspaceweb/static/js/2.376bb36c.chunk.js",
+    "static/js/2.376bb36c.chunk.js.map": "/spinspaceweb/static/js/2.376bb36c.chunk.js.map",
     "static/js/3.ce63c4a5.chunk.js": "/spinspaceweb/static/js/3.ce63c4a5.chunk.js",
     "static/js/3.ce63c4a5.chunk.js.map": "/spinspaceweb/static/js/3.ce63c4a5.chunk.js.map",
     "fonts/Sandoval.ttf": "/spinspaceweb/./fonts/Sandoval.ttf",
@@ -15,7 +15,7 @@
     "index.html": "/spinspaceweb/index.html",
     "manifest.json": "/spinspaceweb/manifest.json",
     "serve.json": "/spinspaceweb/serve.json",
-    "static/js/2.fae14d24.chunk.js.LICENSE.txt": "/spinspaceweb/static/js/2.fae14d24.chunk.js.LICENSE.txt",
+    "static/js/2.376bb36c.chunk.js.LICENSE.txt": "/spinspaceweb/static/js/2.376bb36c.chunk.js.LICENSE.txt",
     "static/media/Light rock formation texture.jpg": "/spinspaceweb/static/media/Light rock formation texture.48bd1bd1.jpg",
     "static/media/cone.png": "/spinspaceweb/static/media/cone.2ed5a290.png",
     "static/media/cube_rock_A_mat_baseColor.png": "/spinspaceweb/static/media/cube_rock_A_mat_baseColor.418445c2.png",
@@ -28,7 +28,7 @@
   },
   "entrypoints": [
     "static/js/runtime~app.1481c019.js",
-    "static/js/2.fae14d24.chunk.js",
-    "static/js/app.3dd2dd44.chunk.js"
+    "static/js/2.376bb36c.chunk.js",
+    "static/js/app.011a5693.chunk.js"
   ]
 }
